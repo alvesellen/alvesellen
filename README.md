@@ -1,7 +1,6 @@
 ### Hey ! Sou a Ellen 👋
 
-- 🌱 Estou estudando o Android Studio
-- 🤔 Procuro ajuda com o angular 
+- 🌱 Estudando front end e cloud
 - 📫 Email: carvalho.ellen.alves@gmail.com
 - 😄 Pronouns: ela/dela
 

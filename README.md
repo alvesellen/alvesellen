@@ -4,8 +4,8 @@
 - 😄 Pronouns: ela/dela
 
    <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesellen_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/alvesellen">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesellen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvesellen&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
@@ -20,7 +20,7 @@
 
  
  
-  ![Animation]([https://gifdb.com/gif/nezuko-kamado-dashing-1umbbgxjzz194o4h.html?embed=true](https://media.gifdb.com/nezuko-kamado-dashing-1umbbgxjzz194o4h.gif))
+  ![Animation]([https://w0.peakpx.com/wallpaper/923/87/HD-wallpaper-kimetsu-no-yaiba-frontal-view-nezuko-kamado-nezuko-thumbnail.jpg])
  
 
    

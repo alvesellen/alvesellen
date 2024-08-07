@@ -1,6 +1,5 @@
 ### Hey ! Sou a Ellen 👋
 
-- 🌱 Estudando front end e cloud
 - 📫 Email: carvalho.ellen.alves@gmail.com
 - 😄 Pronouns: ela/dela
 

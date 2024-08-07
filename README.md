@@ -14,7 +14,7 @@
 
  
  
-  ![Animation]()
+  ![Animation](https://gifdb.com/gif/nezuko-kamado-dashing-1umbbgxjzz194o4h.html?embed=true)
  
 
    

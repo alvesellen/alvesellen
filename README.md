@@ -20,7 +20,7 @@
 
  
  
-  ![Animation]([https://w0.peakpx.com/wallpaper/923/87/HD-wallpaper-kimetsu-no-yaiba-frontal-view-nezuko-kamado-nezuko-thumbnail.jpg)
+  ![Animation](https://w0.peakpx.com/wallpaper/923/87/HD-wallpaper-kimetsu-no-yaiba-frontal-view-nezuko-kamado-nezuko-thumbnail.jpg)
  
 
    

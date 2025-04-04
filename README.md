@@ -25,7 +25,7 @@
  
 ### Siga-me no Linkedin!
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-de-carvalho-alves-864ab4300E/)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellen-de-carvalho-alves-864ab4300/)    
 
  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carvalho.ellen.alves@gmail.com)
  

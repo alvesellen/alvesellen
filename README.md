@@ -9,7 +9,7 @@
 ### Linguagens 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F5274D?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 ### Ferramentas

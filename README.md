@@ -3,7 +3,8 @@
 - 😄 Pronouns: ela/dela
 
 ### Estudante de Sistemas de Informação, 4º período. 
-### Adoro gatos, leituras (até pdf), praticante de yoga. 
+### Análise de Dados
+### Adoro gatos, leituras, praticante de yoga. 
 
    <div>
    <a href="https://github.com/alvesellen">
@@ -14,7 +15,7 @@
 ### Linguagens 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-Python
+
 
 ### Ferramentas
 

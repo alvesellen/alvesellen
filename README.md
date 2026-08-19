@@ -5,12 +5,6 @@
 ### Estudante de Sistemas de Informação, 4º período. 
 ### Análise de Dados
 ### Adoro gatos, leituras, praticante de yoga. 
-
-   <div>
-   <a href="https://github.com/alvesellen">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvesellen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-</div>
     
 ### Linguagens 
 

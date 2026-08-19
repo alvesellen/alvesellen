@@ -2,8 +2,7 @@
 
 - 😄 Pronouns: ela/dela
 
-### Estudante de Sistemas de Informação, 3º período. 
-### Aperfeiçoando Desenvolvimento Front-End. 
+### Estudante de Sistemas de Informação, 4º período. 
 ### Adoro gatos, leituras (até pdf), praticante de yoga. 
 
    <div>

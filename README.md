@@ -21,7 +21,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-000?&style=plastic&logo=pandas&logoColor=00008B)
 ![Typescript](https://img.shields.io/badge/Typescript-000?&style=plastic&logo=typescript&logoColor=3776AB)
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://github.com/404"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWswenk5ODA0eWdmdGVicHZ2cHRocmoxczRjYmQwOXprd2g0NHJ5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LkxYEd68MhP4NhfRDu/giphy.gif"></a>
 
 ### Contato
 

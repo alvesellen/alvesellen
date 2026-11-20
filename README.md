@@ -35,4 +35,4 @@
 
  <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0290.gif" border="0" alt="linha-imagem-animada-0290" /></a>
 
- <a href="https://github.com/404"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLIjE1Xn0agsU6lbf1yyNVvMIv_8Q-Qzs3oRvCTfqxA&s=10"></a>
+ <a href="https://github.com/404"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmMwZGRmeTN3eGNpeW4xbzBrbzg1bjF3eWpoenR3ZWhibmdramMyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z5s5NG7w0xPGbehFzX/giphy.gif"></a>

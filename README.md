@@ -3,13 +3,12 @@
 [View my Resume]([https://drive.google.com/file/d/1kJf4G1kei_IllgwSXtFQsDux6vxiQ0gB/view?usp=drivesdk](https://drive.google.com/file/d/1N1ZYKOwca3g9SVOstuyOCOb6wF9a8TMq/view?usp=sharing)) 📝
 
 
-### 🧰 Here is what I'm working on!  
-
+### 🧰 O que estou fazendo no momento
 -
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### 👨‍💻 Languages and Tools I Use
+### Linguagens
 
 ![Python](https://img.shields.io/badge/Python-05122A?style=plastic&logo=Python&logoColor=3776AB)
 ![Git](https://img.shields.io/badge/Git-05122A?style=plastic&logo=Git&logoColor=F05032)
@@ -23,9 +22,7 @@
 ![Typescript](https://img.shields.io/badge/Typescript-000?&style=plastic&logo=typescript&logoColor=3776AB)
 
 
----
-
-### 📺 Contact Me
+### Contato
 
 <a 
   href="https://www.linkedin.com/in/ellendecarvalhoalves/">
@@ -34,20 +31,4 @@
   <a href="mailto:carvalho.ellen.alves@gmail.com">
   <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>&ensp;
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=zadilkhwaja&theme=react-dark&hide_border=true)
-<br />
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zadilkhwaja&theme=tokyonight)
-<br />
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zadilkhwaja&theme=tokyonight)
-<br />
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zadilkhwaja&theme=tokyonight&utcOffset=5)
-</details>
-</details>
-
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
-
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
  

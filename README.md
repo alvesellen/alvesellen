@@ -1,4 +1,4 @@
-# ![Olá! Eu sou a Ellen](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=%2C+=Oi!+Sou+a+Ellen!👋🏼;+;+)
+# ![Olá! Eu sou a Ellen](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=21+&duration=2000&center=true&vCenter=true&multiline=true&width=200&height=40&lines=%2C+Oi!+Sou+a+Ellen!👋🏼;+;+)
 
 [View my Resume](https://drive.google.com/file/d/1kJf4G1kei_IllgwSXtFQsDux6vxiQ0gB/view?usp=drivesdk) 📝
 

@@ -21,7 +21,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-000?&style=plastic&logo=pandas&logoColor=00008B)
 ![Typescript](https://img.shields.io/badge/Typescript-000?&style=plastic&logo=typescript&logoColor=3776AB)
 
-<a href="https://github.com/404"><img src="https://media0.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cXdlbmRnN2Q2a3N3azF3dHlpZzVjeXpwcmF3eDBrMDVla3pocjcyZiZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/nhW9Oxyu2FeAkqZyc7/giphy.webp"></a>
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0290.gif" border="0" alt="linha-imagem-animada-0290" /></a>
 
 ### Contato
 

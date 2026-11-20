@@ -6,7 +6,7 @@
 ### O que estou fazendo no momento
 -
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0290.gif" border="0" alt="linha-imagem-animada-0290" /></a>
 
 ### Linguagens e Ferramentas
 
@@ -33,6 +33,6 @@
   <img width="25px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>&ensp;
 
- <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+ <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0290.gif" border="0" alt="linha-imagem-animada-0290" /></a>
 
  <a href="https://github.com/404"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMLIjE1Xn0agsU6lbf1yyNVvMIv_8Q-Qzs3oRvCTfqxA&s=10"></a>

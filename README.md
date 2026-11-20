@@ -20,9 +20,7 @@
 ![PowerBI](https://img.shields.io/badge/PowerBI-000?&style=plastic&logo=powerbi&logoColor=F7DF1E)
 ![Json](https://img.shields.io/badge/Json-000?&style=plastic&logo=Json&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-000?&style=plastic&logo=pandas&logoColor=00008B)
-![Markdown](https://img.shields.io/badge/Markdown-000?&style=plastic&logo=markdown&logoColor=13aa52)
 ![Typescript](https://img.shields.io/badge/Typescript-000?&style=plastic&logo=typescript&logoColor=3776AB)
-![Anaconda](https://img.shields.io/badge/Anaconda-000?&style=plastic&logo=Anaconda&logoColor=006400)
 
 
 ---

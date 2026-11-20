@@ -3,7 +3,7 @@
 [View my Resume](https://drive.google.com/file/d/1N1ZYKOwca3g9SVOstuyOCOb6wF9a8TMq/view?usp=sharing) 📝
 
 
-### 🧰 O que estou fazendo no momento
+### O que estou fazendo no momento
 -
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>

@@ -36,29 +36,6 @@
   </a>&ensp;
 
 
----
-
-### :octocat:&nbsp; Misc.
-
-<details>
-<summary>Github Stats</summary>
-<br />
-
-<img href="https://github.com/zadilkhwaja/github-readme-stats" src="https://github-readme-stats.vercel.app/api?username=zadilkhwaja&show_icons=true&theme=react&hide_border=true&count_private=true&hide=stars" />
-
-<br />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zadilkhwaja&theme=react&hide_border=true" alt="zadilkhwaja" />
-
-<br />
-<img src="https://komarev.com/ghpvc/?username=zadilkhwaja&label=Profile%20views&color=0e75b6&style=flat" alt="zadilkhwaja" />
-<a href="https://github.com/zadilkhwaja/weather_app_django/network/members"><img src="https://img.shields.io/github/forks/zadilkhwaja/weather_app_django" alt="Forks Badge"/></a>
-<a href="https://github.com/zadilkhwaja/studentdbms/issues"><img src="https://img.shields.io/github/issues/zadilkhwaja/studentdbms" alt="Issues Badge"/></a>
-<br />
-<br />
-<details>
-<summary>More Metrics 🚀</summary>
-<br />
-
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=zadilkhwaja&theme=react-dark&hide_border=true)
 <br />
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zadilkhwaja&theme=tokyonight)
@@ -69,17 +46,8 @@
 </details>
 </details>
 
-<details>
-<summary>Hactoberfest Holopin</summary>
-<br />
-
-[![@zadilkhwaja's Holopin board](https://holopin.io/api/user/board?user=zadilkhwaja)](https://holopin.io/@zadilkhwaja)
-</details>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a></p>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
- 
- 
-  ![Animation](https://w0.peakpx.com/wallpaper/923/87/HD-wallpaper-kimetsu-no-yaiba-frontal-view-nezuko-kamado-nezuko-thumbnail.jpg)
  
